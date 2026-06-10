@@ -279,9 +279,9 @@ class _ServiceBookingScreenState extends State<ServiceBookingScreen> {
           ),
         ),
         const SizedBox(height: 16),
-        const Text(
-          "What's going on with your ${serviceType}?",
-          style: TextStyle(
+        Text(
+          "What's going on with your $_shortServiceType?",
+          style: const TextStyle(
             fontSize: 16,
             fontWeight: FontWeight.w700,
             color: AppColors.textPrimary,
@@ -385,7 +385,7 @@ class _ServiceBookingScreenState extends State<ServiceBookingScreen> {
     );
   }
 
-  static const serviceType = '';
+
 
   Widget _buildAddressStep() {
     return Column(

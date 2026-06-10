@@ -219,8 +219,8 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
                                         ),
                                       ),
                                       Text(
-                                        '\$${(p['price'] as double * 0.08).toStringAsFixed(2)}',
-                                        style: const TextStyle(
+                                        '\$${((p['price'] as double) * 0.08).toStringAsFixed(2)}',
+                                        style: TextStyle(
                                           fontSize: 20,
                                           fontWeight: FontWeight.w600,
                                           color: AppColors.success,
