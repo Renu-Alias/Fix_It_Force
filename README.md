@@ -241,7 +241,6 @@ Navigation is handled by `MainShell`, which uses a bottom navigation bar with fo
 
 ---
 
----
 
 <p align="center">
   <strong>Fix It Force</strong> — Streamlining repair, maintenance, and hardware commerce.
