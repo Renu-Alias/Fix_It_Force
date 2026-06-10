@@ -241,24 +241,6 @@ Navigation is handled by `MainShell`, which uses a bottom navigation bar with fo
 
 ---
 
-## Contributing
-
-Contributions are welcome. To get started:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and ensure tests pass: `flutter test`
-4. Run the analyzer: `flutter analyze`
-5. Commit with a clear message and open a pull request
-
-Please follow existing code style and keep changes focused on the task at hand.
-
----
-
-## License
-
-This project is currently unlicensed. Contact the project maintainers for usage terms.
-
 ---
 
 <p align="center">
