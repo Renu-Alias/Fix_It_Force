@@ -4,24 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [Problem Statement](#problem-statement)
-- [Solution](#solution)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the App](#running-the-app)
-- [Project Structure](#project-structure)
-- [Screens Overview](#screens-overview)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## About
 
 Fix It Force addresses inefficiencies in traditional repair and maintenance markets by offering:
